@@ -1,0 +1,30 @@
+git --> versionamento de código
+
+----------
+
+git init --> inicia o git
+git status --> mostra tudo que foi modificado
+git add . --> adiciona tudo
+git add "nome arquivo" --> adiciona somente esse arquivo
+git commit -m "descrição"--> criou o commit
+git push --> envia os arquivos 
+
+git pull --> puxa tudo que está da dev
+
+
+----------
+padrão de branch
+
+- hml=dev --> (uma cópia da mains) realiza testes
+- Feature --> melhoria ou task nova
+- bug --> bugs
+
+
+
+branch
+
+
+
+
+
+
